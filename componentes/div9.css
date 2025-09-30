@@ -1,0 +1,12 @@
+.div9 {
+    width: 150px;
+    height: 130px;
+    background-color: darkcyan;
+    border: 1px solid fuchsia;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 10px;
+
+}

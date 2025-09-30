@@ -1,0 +1,15 @@
+.div8 {
+    width: auto;
+    height: 130px;
+    background-color: beige;
+    border: 1px solid cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+
+
+

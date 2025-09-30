@@ -1,0 +1,15 @@
+.div6 {
+    width: auto;
+    height: 130px;
+    background: rgb(81, 187, 81);
+    border: 1px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+
+
+

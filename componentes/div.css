@@ -1,0 +1,11 @@
+.cuadro {
+    background-color: gainsboro;
+    width: 730px;
+   height: 575px;
+   margin: auto;
+  display: grid;
+  grid-template-columns: 25% 1fr;
+  grid-auto-rows: 130px; 
+  gap: 10px; 
+}
+

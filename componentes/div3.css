@@ -1,0 +1,15 @@
+.div3{
+    width: auto;
+    height: 270px;
+    border: 1px solid purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    margin: 10px;
+    background-color:plum;
+    grid-column: 4/4;
+    grid-row: 1/3;
+}
+
+

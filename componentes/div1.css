@@ -1,0 +1,18 @@
+.div1 {
+    width: auto;
+    height: 130px;
+    background: pink;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: span 2; 
+    border-radius: 5px;
+    margin: 10px;
+    grid-column: 1/3 ;
+}
+
+
+
+
+
